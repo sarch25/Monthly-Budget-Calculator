@@ -23,7 +23,26 @@ Motivated and detail-oriented individual with a passion for personal finance and
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
-![Screenshot 2024-04-04 100636](https://github.com/sarch25/Python-Trading-Bot/assets/130470960/46482be7-003e-4c70-be09-867a43acc6a5)
+
+![Screenshot 2024-04-04 173250](https://github.com/sarch25/Monthly-Budget-Calculator/assets/130470960/7a87a852-0d47-4ee7-8fa0-f0297665f165)
+
+![Screenshot 2024-04-04 173430](https://github.com/sarch25/Monthly-Budget-Calculator/assets/130470960/95da48e6-936c-44f3-9db5-e0bd0d894afd)
+
+![Screenshot 2024-04-04 173518](https://github.com/sarch25/Monthly-Budget-Calculator/assets/130470960/67cac23a-7a45-460b-8929-6d964f4ad69e)
+
+![Screenshot 2024-04-04 173535](https://github.com/sarch25/Monthly-Budget-Calculator/assets/130470960/06aa13e6-eaec-408e-810e-7c6fdcf97053)
+
+![Screenshot 2024-04-04 173552](https://github.com/sarch25/Monthly-Budget-Calculator/assets/130470960/8ba79118-6c4c-494f-86a5-859cd30670d1)
+
+![Screenshot 2024-04-04 173634](https://github.com/sarch25/Monthly-Budget-Calculator/assets/130470960/d84a4813-a549-4135-8f01-3b06290d3643)
+
+![Screenshot 2024-04-04 173827](https://github.com/sarch25/Monthly-Budget-Calculator/assets/130470960/5f9d8bcc-989a-4320-8759-f9a90e093287)
+
+
+
+
+
+
 
 
 Every screenshot should have some text explaining what the screenshot is about.
