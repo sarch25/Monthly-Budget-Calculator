@@ -1,30 +1,24 @@
 # Monthly Budget Calculator
 
 ## Objective
-[Brief Objective - Remove this afterwards]
-
-Motivated and detail-oriented individual with a passion for personal finance and programming. Seeking opportunities to apply my skills in developing a monthly budget calculator in Python. This calculator empowers users to efficiently manage their finances by inputting monthly income and expenses, providing a clear overview of total expenses and the remaining amount available for savings, investment, or discretionary spending. Through this project, I aim to simplify the budgeting process and promote financial literacy, while honing my programming abilities and problem-solving skills in Python.
+The monthly budget calculator developed in Python offers users a streamlined solution for managing their finances effectively. By inputting their monthly income and expenses, users can gain insights into their financial situation, including total expenses and the remaining amount available for various purposes like savings, investment, or discretionary spending. This project serves as a valuable tool for promoting financial literacy and empowering users to make informed financial decisions, all while showcasing the capabilities of Python for practical applications in personal finance management.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
-
+- Practical application of Python programming for financial management
+- User input handling and data processing techniques
+- Problem-solving skills in developing a budget calculator
+- Promotion of financial literacy through technology-based solutions
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Python programming language
+- Input functions to collect monthly income and expenses
+- Calculation functions to determine total expenses and remaining amount
+- Output functions to display the budget summary to users
+## Images
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-![Screenshot 2024-04-04 173250](https://github.com/sarch25/Monthly-Budget-Calculator/assets/130470960/7a87a852-0d47-4ee7-8fa0-f0297665f165)
+![Screenshot 2024-04-22 154822](https://github.com/sarch25/Monthly-Budget-Calculator/assets/130470960/4a811ccb-6b5c-4458-83bc-74952184ff26)
 
 ![Screenshot 2024-04-04 173430](https://github.com/sarch25/Monthly-Budget-Calculator/assets/130470960/95da48e6-936c-44f3-9db5-e0bd0d894afd)
 
@@ -37,6 +31,8 @@ drag & drop screenshots here or use imgur and reference them using imgsrc
 ![Screenshot 2024-04-04 173634](https://github.com/sarch25/Monthly-Budget-Calculator/assets/130470960/d84a4813-a549-4135-8f01-3b06290d3643)
 
 ![Screenshot 2024-04-04 173827](https://github.com/sarch25/Monthly-Budget-Calculator/assets/130470960/5f9d8bcc-989a-4320-8759-f9a90e093287)
+
+
 
 
 
