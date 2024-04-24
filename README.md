@@ -1,6 +1,6 @@
 # Monthly Budget Calculator
 
-## Objective
+## Summary
 The monthly budget calculator developed in Python offers users a streamlined solution for managing their finances effectively. By inputting their monthly income and expenses, users can gain insights into their financial situation, including total expenses and the remaining amount available for various purposes like savings, investment, or discretionary spending. This project serves as a valuable tool for promoting financial literacy and empowering users to make informed financial decisions, all while showcasing the capabilities of Python for practical applications in personal finance management.
 
 ![Screenshot 2024-04-04 173827](https://github.com/sarch25/Monthly-Budget-Calculator/assets/130470960/5f9d8bcc-989a-4320-8759-f9a90e093287)
